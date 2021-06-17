@@ -1,6 +1,6 @@
 # BankNIFTY-analysis
 
-Task : 
+## Tasks : 
 
 -	Attached Bank Nifty time series data of 5 min.
 -	Backtest using Python.
